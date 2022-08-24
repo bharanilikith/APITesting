@@ -8,7 +8,7 @@ import io.restassured.http.ContentType;
 public class Test0 {
 	@Test
 	public void tc1() {
-		
+		//pro
 		when()
 		.get("http://localhost:3000/posts")
 		
